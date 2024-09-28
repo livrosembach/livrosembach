@@ -14,4 +14,4 @@ Gourmetize's mission is to connect you to a wide variety of gastronomic options,
 
 ## Languages I Know
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JavaScript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="JavaScript" width="40" height="40"/>
-### 📫 How to reach me → [Linkedin](www.linkedin.com/in/livia-rosembach)
+### 📫 How to reach me → [Linkedin](https://www.linkedin.com/in/livia-rosembach/)
