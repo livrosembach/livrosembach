@@ -3,14 +3,12 @@ I'm a student of Information Systems. Here you will find my progress in classes 
 
 ## [Market Flow](https://github.com/livrosembach/Market_Flow) 📑🛒
 Market Flow is a project developed to optimize the organization of products in a market, aligning them with the physical layout of the aisles.
-
 Using __Python(Flask)__ and HTML, CSS and Javascript the system offers efficient organization of items based on the market's physical structure.
 
 Check out the repository for more details! 🛒
 
 ## [Alt+F4 - Electronic Peripherals E-commerce](https://github.com/giovanisims/Alt-F4) 💻⌨📱
 Alt+F4 is an e-commerce project developed with HTML, CSS, JavaScript, Node.js, and MySQL. It includes features such as product CRUD, search system, and shopping cart.
-
 This system was created as the final project for the Web Development course, integrating front-end, back-end, and database to provide a complete experience.
 
 Check out the repository for more details! 🚀
