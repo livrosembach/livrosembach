@@ -1,5 +1,8 @@
 ## __Hi, I’m Livia__ 👋
-I'm a student of Information Systems. Here you will find my progress in classes and projects I develop to learn or for my portfolio.
+I'm a student of Information Systems at PUCPR, passionate about creating meaningful digital experiences.
+Currently, I work as a Web Development Intern at Obra Prima, and I'm also a Product Designer and iOS student at the Apple Developer Academy | PUCPR.
+Here you'll find my progress in classes and personal projects, built to learn, experiment, and expand my portfolio.
+
 
 ## [Market Flow](https://github.com/livrosembach/Market_Flow) 📑🛒
 Market Flow is a project developed to optimize the organization of products in a market, aligning them with the physical layout of the aisles.
