@@ -1,28 +1,69 @@
-## __Hi, I’m Livia__ 👋
-I'm a student of Information Systems at PUCPR, passionate about creating meaningful digital experiences.
-Currently, I work as a Web Development Intern at Obra Prima, and I'm also a Product Designer and iOS student at the Apple Developer Academy | PUCPR.
-Here you'll find my progress in classes and personal projects, built to learn, experiment, and expand my portfolio.
+## 👋 Hi, I’m Livia
 
+I'm a **student of Information Systems at PUCPR**, passionate about creating **meaningful and intuitive digital experiences**.
 
-## [Market Flow](https://github.com/livrosembach/Market_Flow) 📑🛒
-Market Flow is a project developed to optimize the organization of products in a market, aligning them with the physical layout of the aisles.
-Using __Python(Flask)__ and HTML, CSS and Javascript the system offers efficient organization of items based on the market's physical structure.
+Currently:
+- 💻 Web Development Intern at **Obra Prima**
+- 🍎 Product Designer & iOS Development Student at the **Apple Developer Academy | PUCPR**
 
-Check out the repository for more details! 🛒
+Here you’ll find my journey through projects and experiments that combine learning, design, and development. Every project here has taught me something new — and helped me grow a little more. 🚀
 
-## [Alt+F4 - Electronic Peripherals E-commerce](https://github.com/giovanisims/Alt-F4) 💻⌨📱
-Alt+F4 is an e-commerce project developed with HTML, CSS, JavaScript, Node.js, and MySQL. It includes features such as product CRUD, search system, and shopping cart.
-This system was created as the final project for the Web Development course, integrating front-end, back-end, and database to provide a complete experience.
+---
 
-Check out the repository for more details! 🚀
+## 💬 Featured Projects
 
-## [Pong Game](https://github.com/giovanisims/PJBL-POO) 🏐🏓
-Pong Game is a recreation of the classic Pong game developed in __Java__ as part of an __Object-Oriented Programming__ course. It features one-player controls, real-time scoring, and progressively increasing speed to enhance the challenge.
+### [📦 EchoBox – Feedback System](https://github.com/livrosembach/echobox)
+EchoBox is a web platform that allows users to send structured feedback to companies through categorized comments. All feedback is public, promoting transparency and open communication.
 
-Check out the repository to explore the code and play! 🎮
+🛠️ **Tech Stack**: React, Node.js (Express), PostgreSQL, HTML, CSS  
+🎯 Built as a final project for the Web Development course.
 
+> Includes user authentication, company selection, feedback categorization, and an admin dashboard.
 
-## Languages I Know
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" alt="Node.js" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="40" height="40"/>
-### 📫 How to reach me → [Linkedin](https://www.linkedin.com/in/livia-rosembach/)
+---
+
+### [🛒 Market Flow – Smart Shopping List](https://github.com/livrosembach/Market_Flow)
+Market Flow organizes shopping lists based on the physical layout of a supermarket, helping users shop more efficiently.
+
+🛠️ **Tech Stack**: Python (Flask), HTML, CSS, JavaScript  
+📦 Focused on user flow optimization through spatial alignment.
+
+---
+
+### [💻 Alt+F4 – E-commerce for Peripherals](https://github.com/giovanisims/Alt-F4)
+A full-stack e-commerce platform built for an academic challenge. Features include CRUD operations, search, shopping cart, and database integration.
+
+🛠️ **Tech Stack**: HTML, CSS, JavaScript, Node.js, MySQL  
+🛍️ Final project for the Web Development course, built in a team.
+
+---
+
+## 🧠 Languages & Tools
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=livrosembach&show_icons=true&theme=radical" alt="Livia's GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livrosembach&layout=compact&theme=radical" alt="Top Languages" height="200">
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-rosembach/)
