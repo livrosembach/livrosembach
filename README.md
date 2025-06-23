@@ -58,8 +58,8 @@ A full-stack e-commerce platform built for an academic challenge. Features inclu
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=livrosembach&show_icons=true&theme=radical" alt="Livia's GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livrosembach&layout=compact&theme=radical" alt="Top Languages" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=livrosembach&show_icons=true&theme=radical" alt="Livia's GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livrosembach&layout=compact&theme=radical" alt="Top Languages" height="150">
 </p>
 
 ---
