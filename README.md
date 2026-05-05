@@ -7,6 +7,7 @@ I’m especially interested in the intersection of **design, research, and devel
 Currently:
 
 * 🍎 iOS Developer & Product Designer student at **Apple Developer Academy | PUCPR**
+* ⛽️ IT Trainee in Product Lifecycle Managment Team at **ExxonMobil**
 * 📱 Building and publishing iOS apps with **Swift & SwiftUI**
 
 Here you’ll find experiments, studies, and projects that reflect my growth as a developer and designer — always learning, iterating, and improving. 🚀
@@ -21,7 +22,7 @@ Here you’ll find experiments, studies, and projects that reflect my growth as 
 
 An app to collect, organize, and revisit favorite book quotes with a clean and minimal interface.
 
-- 🛠️ **Tech Stack**: SwiftUI, SwiftData
+- 🛠️ **Tech Stack**: SwiftUI, SwiftData, Accessibility
 - ✨ Focused on accessibility, Dynamic Type, and visual clarity.
 - <a href="https://qoutee.rosembach-livia.workers.dev/" target="_blank" rel="noopener noreferrer">
   📲 Available on the App Store.
@@ -32,7 +33,7 @@ An app to collect, organize, and revisit favorite book quotes with a clean and m
 ### 🎫 Zênite — Event Ticket Management App  
 An iOS app designed to help users **store, organize, and access their event tickets** in one place, making entry faster and reducing the risk of lost or scattered tickets.
 
-- 🛠️ **Tech Stack**: SwiftUI, MVVM  
+- 🛠️ **Tech Stack**: SwiftUI, CoreData, MapKit, WeatherKit, PDFKit, Ai Integration
 - ✨ Focus on clean UI, usability, and quick access to essential information. 
 - <a href="https://vicx.dev.br/p/zenite" target="_blank" rel="noopener noreferrer">
   📲 Available on the App Store.
